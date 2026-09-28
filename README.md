@@ -1,16 +1,26 @@
 Name: Suhani Dalve
+
 PRN: 126UAD2003
+
 Class/Division: SY-F
+  
 Unit II
 
 ======List Of Programs======
 1.Basic data types 
+
 2.If else 
-3.Loop and Array 
+
+3.Loop and Array
+
 4.Functions 
+
 5.Class and Object 
+
 6.Constructor and destructor 
+
 7.Static Member
+
 8.Inline and Friend function 
 
 ======Description Of Each Program======
